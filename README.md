@@ -1,5 +1,5 @@
 # mvn-multi-module-sample
-A sample multi-module Maven project; a parent project with 2 submodules.
+A sample multi-module Maven project; a parent project with its 2 submodules.
 
 References:
 1)  Docs start at: https://books.sonatype.com/mvnex-book/reference/multimodule-sect-intro.html
